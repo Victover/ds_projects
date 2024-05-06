@@ -1,8 +1,8 @@
 # Дипломный проект. Разработка виртуального коуча для спортивных занятий
 
 ## Оглавление  
-[1. Цель](https://github.com/Victover/ds_projects/blob/main/project_1a/readme.md#Описание-проекта)  
-[2. Структура проекта](https://github.com/Victover/ds_projects/blob/main/project_1a/readme.md#Какой-кейс-решаем)  
+[1. Цель](https://github.com/Victover/ds_projects/tree/main/PROJECT_FINAL/readme.md#Цель-проекта)  
+[2. Структура проекта](https://github.com/Victover/ds_projects/tree/main/PROJECT_FINAL/readme.md#Структура-проекта)  
 
 
 ### Цель проекта    
